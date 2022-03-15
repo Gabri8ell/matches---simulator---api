@@ -1,19 +1,19 @@
 [
     {
       "descricao": "Eliminatórias Copa 2022",
-      "Local": {
+      "local": {
         "nome": "Neo Quimica Arena",
-        "Imagem": "https://www.sccponline.com/wp-content/uploads/2020/09/Arena-Corinthians.jpg"
+        "imagem": "https://www.sccponline.com/wp-content/uploads/2020/09/Arena-Corinthians.jpg"
       },
       "mandante": {
         "nome": "Brasil",
-        "força": 5,
-        "Imagem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+        "forca": 5,
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
       },
       "visitante": {
         "nome": "Argentina",
-        "força": 5,
-        "Imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png"
+        "forca": 5,
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png"
       }
     }
 ]
