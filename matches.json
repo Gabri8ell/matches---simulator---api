@@ -1,5 +1,5 @@
 [
-    {
+   {
       "descricao": "Eliminatórias Copa 2022",
       "local": {
         "nome": "Neo Quimica Arena",
@@ -15,9 +15,9 @@
         "forca": 5,
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png"
       }
-    }
+   },
     
-    {
+   {
       "descricao": "Eliminatórias Copa 2022",
       "local": {
         "nome": "Arena Pernambuco",
@@ -30,12 +30,12 @@
       },
       "visitante": {
         "nome": "Chile",
-        "forca": 5,
+        "forca": 4,
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png"
       }
-    }
+   },
     
-    {
+   {
       "descricao": "Eliminatórias Copa 2022",
       "local": {
         "nome": "Arena Itaipava Fonte Nova",
@@ -48,8 +48,8 @@
       },
       "visitante": {
         "nome": "Uruguai",
-        "forca": 5,
+        "forca": 3,
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/255px-Flag_of_Uruguay.svg.png"
       }
-    }
+   }
 ]
