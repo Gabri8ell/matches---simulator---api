@@ -16,4 +16,40 @@
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1024px-Flag_of_Argentina.svg.png"
       }
     }
+    
+    {
+      "descricao": "Eliminatórias Copa 2022",
+      "local": {
+        "nome": "Arena Pernambuco",
+        "imagem": "https://imagens3.ne10.uol.com.br/blogsne10/torcedor/uploads/2019/04/824dd95b1c4d06801b107dabfef1ab3f.jpg"
+      },
+      "mandante": {
+        "nome": "Brasil",
+        "forca": 5,
+        "imagem": "https://s3.static.brasilescola.uol.com.br/be/2021/11/bandeira-do-brasil.jpg"
+      },
+      "visitante": {
+        "nome": "Chile",
+        "forca": 5,
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png"
+      }
+    }
+    
+    {
+      "descricao": "Eliminatórias Copa 2022",
+      "local": {
+        "nome": "Arena Itaipava Fonte Nova",
+        "imagem": "https://www.maxmilhas.com.br/blog/wp-content/uploads/2019/05/Arena-Fonte-Nova-Est%C3%A1dios-da-Copa-Am%C3%A9rica-2019.jpg"
+      },
+      "mandante": {
+        "nome": "Brasil",
+        "forca": 5,
+        "imagem": "https://s3.static.brasilescola.uol.com.br/be/2021/11/bandeira-do-brasil.jpg"
+      },
+      "visitante": {
+        "nome": "Uruguai",
+        "forca": 5,
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/255px-Flag_of_Uruguay.svg.png"
+      }
+    }
 ]
