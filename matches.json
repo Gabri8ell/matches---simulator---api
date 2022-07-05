@@ -8,12 +8,12 @@
       "mandante": {
         "nome": "Brasil",
         "forca": 5,
-        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-do-brasil.webp?raw=true"
+        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-brasil.png?raw=true"
       },
       "visitante": {
         "nome": "Argentina",
         "forca": 5,
-        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-argentina.webp?raw=true"
+        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-argentina.png?raw=true"
       }
    },
     
@@ -26,12 +26,12 @@
       "mandante": {
         "nome": "Brasil",
         "forca": 5,
-        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-do-brasil.webp?raw=true"
+        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-brasil.png?raw=true"
       },
       "visitante": {
         "nome": "Chile",
         "forca": 4,
-        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-chile.webp?raw=true"
+        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-chile.png?raw=true"
       }
    },
     
@@ -44,12 +44,12 @@
       "mandante": {
         "nome": "Brasil",
         "forca": 5,
-        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-do-brasil.webp?raw=true"
+        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-brasil.png?raw=true"
       },
       "visitante": {
         "nome": "Uruguai",
         "forca": 3,
-        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-uruguai.webp?raw=true"
+        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-uruguai.png?raw=true"
       }
    }
 ]
