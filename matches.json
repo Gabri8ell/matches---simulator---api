@@ -13,7 +13,7 @@
       "visitante": {
         "nome": "Argentina",
         "forca": 5,
-        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-argentina.png?raw=true"
+        "imagem": "https://raw.githubusercontent.com/Gabri8ell/matches---simulator---api/main/bandeira-argentina.webp"
       }
    },
     
@@ -31,7 +31,7 @@
       "visitante": {
         "nome": "Chile",
         "forca": 4,
-        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-chile.png?raw=true"
+        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-chile.webp?raw=true"
       }
    },
     
@@ -49,7 +49,7 @@
       "visitante": {
         "nome": "Uruguai",
         "forca": 3,
-        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-uruguai.png?raw=true"
+        "imagem": "https://github.com/Gabri8ell/matches---simulator---api/blob/main/bandeira-uruguai.webp?raw=true"
       }
    }
 ]
